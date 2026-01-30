@@ -1,31 +1,38 @@
 ---
 layout: default
-title: Support & Refund Questions
+title: Support Page
 ---
 
-We're here to help! Mahalo for shopping with **The Fan Stand Kauai**.
+# The Fan Stand Kauai – Support
 
-If you have questions about your order, product, delivery, or refund, scan the QR code below for quick answers or contact us directly.
+Mahalo for shopping with us!
 
-<!-- Insert your QR code image here. Upload the image to the repo (e.g., qr-code.png) and use this syntax: -->
-![Support QR Code](qr-code.png){:style="max-width: 200px; display: block; margin: 20px auto;"}
+### Quick Answers
 
-### About Refunds – You're Fully Covered
-If you haven't received your product or there's any qualifying issue:
+- **Haven't received your product?**  
+  We start your refund right away once approved.
 
-- We **initiate your refund immediately** once approved—right away on our end.
-- **Please note**: Banks and payment processors typically take **3-5 business days** to show the refund in your account (sometimes up to 7 days in rare cases). This delay is standard and outside our control, but rest assured—the refund is sent the moment we process it. Most customers see funds back quickly within 3-5 days.
+- **How long until I see the refund?**  
+  We send it immediately.  
+  Banks usually take **3-5 business days** to show it in your account (up to 7 days max in rare cases).
 
-### Any Concerns or Questions?
-We're happy to assist right away!
+- **Questions or concerns?**  
+  Email: [pacific.card.solutions@gmail.com](mailto:pacific.card.solutions@gmail.com)  
+  (Add your order number for faster help.)
 
-- Email us at: **[pacific.card.solutions@gmail.com](mailto:pacific.card.solutions@gmail.com)**  
-  (Include your order number if you have it for faster help.)
+- **Need help faster?**  
+  DM us on Instagram: [@thefanstandkauai](https://instagram.com/thefanstandkauai)
 
-- For **more urgent concerns**, DM us on Instagram at **[@thefanstandkauai](https://instagram.com/thefanstandkauai)** — we check there often and respond quickly.
+### Common Questions
 
-We'll get back to you as soon as possible—usually within 24 hours.
+**Q: When will my refund appear?**  
+A: We process it the same day (or next business day). Your bank shows it in 3–5 business days most of the time.
 
-Your satisfaction is our priority. We're committed to making things right here on Kauai.
+**Q: What if it's urgent?**  
+A: Message us on Instagram DM (@thefanstandkauai) – we check often and reply quickly.
 
+**Q: How do I contact you?**  
+A: Use the email above or Instagram DM. That's the fastest ways.
+
+We're here to make it right.  
 Mahalo nui loa! 🌺
