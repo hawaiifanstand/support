@@ -7,6 +7,11 @@ title: Support Page
   header, footer {
     display: none !important;
   }
+
+  section {
+    float: none !important;
+    width: 100% !important;
+  }
 </style>
 
 # The Fan Stand Kauai – Support
