@@ -3,6 +3,12 @@ layout: default
 title: Support Page
 ---
 
+<style>
+  header, footer {
+    display: none !important;
+  }
+</style>
+
 # The Fan Stand Kauai – Support
 
 Mahalo for shopping with us!
